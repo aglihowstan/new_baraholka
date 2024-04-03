@@ -1,7 +1,4 @@
 import telebot
-import types
+import types 
 
-
-
-
-fe
+bot = telebot.TeleBot('')
